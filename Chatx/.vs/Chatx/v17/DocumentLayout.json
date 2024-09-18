@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet\\chatx\\Chatx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|d:\\dotnet\\chatx\\chatx\\chatx\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|solutionrelative:chatx\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Chatx\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Chatx\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:55:36.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
