@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Dotnet\\chatx\\Chatx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|d:\\dotnet\\chatx\\chatx\\chatx\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|solutionrelative:chatx\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|d:\\dotnet\\chatx\\chatx\\chatx\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|solutionrelative:chatx\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|d:\\dotnet\\chatx\\chatx\\chatx\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|solutionrelative:chatx\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|d:\\dotnet\\chatx\\chatx\\chatx\\chatx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BE9B857-17D4-4435-9DC0-2E326CA01B7B}|Chatx\\Chatx.csproj|solutionrelative:chatx\\chatx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chatx.csproj",
+              "DocumentMoniker": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Chatx.csproj",
+              "RelativeDocumentMoniker": "Chatx\\Chatx.csproj",
+              "ToolTip": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Chatx.csproj",
+              "RelativeToolTip": "Chatx\\Chatx.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T09:26:51.467Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Chatx\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Chatx\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAAAMAAAA",
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Chatx\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Chatx\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:55:36.8Z",
+              "WhenOpened": "2024-09-20T08:51:50.973Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Chatx\\Models\\HangHoa.cs",
+              "ToolTip": "D:\\Dotnet\\chatx\\Chatx\\Chatx\\Models\\HangHoa.cs",
+              "RelativeToolTip": "Chatx\\Models\\HangHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:44:21.441Z"
             }
           ]
         }

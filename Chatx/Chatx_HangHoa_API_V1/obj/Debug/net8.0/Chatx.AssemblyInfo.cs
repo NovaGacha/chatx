@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chatx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a13be0b7645c1e7e70cc8ced4dcca5231903581")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d46efa88d78a0e79e83a9e4d550521050bdc214f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chatx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chatx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
